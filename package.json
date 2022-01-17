@@ -4,8 +4,12 @@
   "description": "mark location for exercise get distance time etc",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel buils index.html"
   },
   "author": "naimulmushfiqmahim",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
 }
