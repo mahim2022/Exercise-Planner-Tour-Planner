@@ -2,7 +2,6 @@
   "name": "exerciselocator",
   "version": "1.0.0",
   "description": "mark location for exercise get distance time etc",
-  "main": "script.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
